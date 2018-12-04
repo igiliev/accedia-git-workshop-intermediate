@@ -11,5 +11,6 @@ Intelligence is the ability to avoid doing work, yet getting the work done.
 The Linux philosophy is 'Laugh in the face of danger'.
 branch changes
 
+master conflict
 ideeem
 
